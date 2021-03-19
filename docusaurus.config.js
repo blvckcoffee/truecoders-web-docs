@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/TCFav.png',
   organizationName: 'blvckcoffee', // Usually your GitHub org/user name.
   projectName: 'truecoders-web-docs', // Usually your repo name.
   themeConfig: {
