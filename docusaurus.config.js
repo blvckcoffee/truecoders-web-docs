@@ -2,7 +2,7 @@
 module.exports = {
   title: 'TrueCoders',
   tagline: 'Web Development Documentation',
-  url: 'https://truecoders-web-docs.netlify.com',
+  url: 'https://truecoders-web-docs.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
