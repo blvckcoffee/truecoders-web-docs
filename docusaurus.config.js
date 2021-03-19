@@ -10,9 +10,6 @@ module.exports = {
   organizationName: 'blvckcoffee', // Usually your GitHub org/user name.
   projectName: 'truecoders-web-docs', // Usually your repo name.
   themeConfig: {
-    prism: {
-      theme: require('prism-react-renderer/themes/nightowl'),
-    },
     navbar: {
       title: '',
       logo: {
