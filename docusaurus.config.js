@@ -3,7 +3,7 @@ module.exports = {
   title: 'TrueCoders',
   tagline: 'Web Development Documentation',
   url: 'https://blvckcoffee.github.io',
-  baseUrl: '/truecoders-web-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
