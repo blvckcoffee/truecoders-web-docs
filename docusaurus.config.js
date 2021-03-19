@@ -2,8 +2,8 @@
 module.exports = {
   title: 'TrueCoders',
   tagline: 'Web Development Documentation',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://blvckcoffee.github.io',
+  baseUrl: '/truecoders-web-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
