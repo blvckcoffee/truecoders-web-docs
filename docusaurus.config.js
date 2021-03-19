@@ -2,8 +2,8 @@
 module.exports = {
   title: 'TrueCoders',
   tagline: 'Web Development Documentation',
-  url: 'https://blvckcoffee.github.io',
-  baseUrl: '/truecoders-web-docs/',
+  url: 'https://truecoders-web-docs.netlify.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
